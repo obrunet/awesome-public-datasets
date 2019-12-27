@@ -396,7 +396,7 @@ Finance
 * |OK_ICON| `Yahoo Finance <http://finance.yahoo.com/>`_
     
 General
----
+-------
         
 * |OK_ICON| `Our World in Data <https://ourworldindata.org>`_
 
