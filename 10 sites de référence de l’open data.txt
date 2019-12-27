@@ -1,0 +1,14 @@
+www.data.gov – The home of the U.S. Government’s open data
+data.gouv.fr – Plateforme ouverte des données publiques françaises
+ouvert.canada.ca – Gouvernement ouvert du Canada
+data.gov.uk – Opening up Government
+open-data.europa.eu – Portail des données ouvertes de l’Union Européenne
+opendata.cityofnewyork.us – NYC open data
+datasf.org – San Francisco OpenData
+opendata.paris.fr – ParisData, le site de la politique Open Data de la Ville de Paris
+data.sncf.com – SNCF OPEN DATA
+donneespubliques.meteofrance.fr – Données publiques de Météo France
+http://aws.amazon.com/datasets/6468931156960467  million song dataset 500GB
+opendatainception.io/ bd de site d’open data sous forme de carte 
+dataportals.org/ rassemble de nombreux protails de données.
+
